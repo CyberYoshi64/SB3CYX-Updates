@@ -11,7 +11,7 @@ DATADIR_MAIN = "updates/data"
 DATADIR_CITRA = "updates/dataCitra"
 
 FILEDB_PATH = "hashes.txt"
-FILEDB_BAK = "hashes-bak.txt"
+FILEDB_BAK = "hashes.bak.txt"
 FILEDIFF_OUT = "filelist.txt"
 
 modeList = ["new", "check", "update","revert"]
